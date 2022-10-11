@@ -1,5 +1,5 @@
 import React, {useState} from "react";
-import {IProduct} from "../gitModels";
+import {IProduct} from "../models"
 import axios from "axios";
 import {Error} from './Error'
 
